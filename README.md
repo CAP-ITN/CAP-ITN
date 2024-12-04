@@ -4,8 +4,8 @@
 
 - <b>osTicket: (Comprehensive Guide)</b>
   - [osTicket: Requirements and Installation](https://github.com/CAP-ITN/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/CAP-ITN/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/CAP-ITN/ticket-lifecycle)
+  - [osTicket: Post-Setup Configuration](https://github.com/CAP-ITN/post-install-config)
+  - [osTicket: Ticket Lifecycle Scenarios](https://github.com/CAP-ITN/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/CAP-ITN/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CAP-ITN/azure-network-protocols)
