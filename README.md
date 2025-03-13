@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Scenarios](https://github.com/CAP-ITN/osTicket-Ticket-Lifecycle-Scenarios)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/CAP-ITN/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CAP-ITN/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CAP-ITN/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
 
