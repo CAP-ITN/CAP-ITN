@@ -7,7 +7,7 @@
   - [osTicket: Post-Setup Configuration](https://github.com/CAP-ITN/post-install-config)
   - [osTicket: Ticket Lifecycle Scenarios](https://github.com/CAP-ITN/osTicket-Ticket-Lifecycle-Scenarios)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/CAP-ITN/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/CAP-ITN/AD-Within-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CAP-ITN/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
